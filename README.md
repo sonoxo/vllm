@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **Sonoxo fork status — upstream project**
+>
+> This repository is a Sonoxo-owned fork used for compatibility and integration experiments. The original project is maintained by [vLLM contributors](https://github.com/vllm-project/vllm); its branding, documentation, licenses, releases, and support channels remain upstream. Sonoxo does **not** claim authorship, official affiliation, endorsement, or that this fork is currently synchronized, tested, or production-ready. Check the [canonical repository](https://github.com/vllm-project/vllm) before installing or contributing.
+
+---
+
 <!-- markdownlint-disable MD001 MD041 -->
 <p align="center">
   <picture>
